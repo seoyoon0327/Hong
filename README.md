@@ -52,13 +52,13 @@ Notion에 학습 과정을 체계적으로 정리하고 있으며, 코딩뿐 아
 ---
 
 <!-- 깃허브 방문자 수 뱃지 (원하면 추가) -->
-<!--
-![Visitor Badge](https://komarev.com/ghpvc/?username=seoyoon0327&color=blue)
--->
+
+[Visitor Badge](https://komarev.com/ghpvc/?username=seoyoon0327&color=blue)
+
 
 <!-- 깃허브 통계 뱃지 -->
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoyoon0327&layout=compact)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyoon0327&show_icons=true&theme=default)
--->
+
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoyoon0327&layout=compact)
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyoon0327&show_icons=true&theme=default)
+
 
